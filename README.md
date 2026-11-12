@@ -136,3 +136,10 @@ Remote NUMA memory access could not be tested because a second NUMA node was not
 | `compare_numa.c` | Combined performance comparison |
 | `screenshots/` | Experiment output screenshots |
 
+---
+
+## Author
+
+**Name:** Vandana A M  
+**Course:** Parallel and GPU Computing (PGC)  
+**Experiment:** 04 – Cache Coherence and NUMA Memory Access Performance
