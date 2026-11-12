@@ -143,3 +143,16 @@ Remote NUMA memory access could not be tested because a second NUMA node was not
 **Name:** Vandana A M  
 **Course:** Parallel and GPU Computing (PGC)  
 **Experiment:** 04 – Cache Coherence and NUMA Memory Access Performance
+
+---
+
+## Performance Graphs
+
+### False Sharing: Adjacent vs Padded
+![False Sharing Performance](graphs/false_sharing.png)
+
+### Combined Comparison Across Thread Counts
+![Combined Performance Comparison](graphs/combined_comparison.png)
+
+### Memory Performance vs Threads
+![Memory Performance](graphs/numa_performance.png)
