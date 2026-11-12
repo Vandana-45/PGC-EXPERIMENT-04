@@ -1,0 +1,8 @@
+# Compiled executables
+false_sharing
+numa_sweep
+compare_numa
+
+# Python cache
+__pycache__/
+*.pyc
